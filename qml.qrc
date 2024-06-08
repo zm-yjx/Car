@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Home.qml</file>
+        <file>LeftNavigator.qml</file>
+        <file>RightStatusbar.qml</file>
+        <file>CustomButton.qml</file>
+        <file>Volumn.qml</file>
+        <file>VolumnLoader.qml</file>
+        <file>CustomProgressBar.qml</file>
+        <file>HomeMenu.qml</file>
+        <file>ScreenMenu.qml</file>
+        <file>PhonePage.qml</file>
+        <file>DialKeyboard.qml</file>
+        <file>ComplexListArea.qml</file>
+        <file>DeviceManagerView.qml</file>
+        <file>CalculatorPage.qml</file>
+    </qresource>
+</RCC>
